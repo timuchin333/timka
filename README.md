@@ -10,7 +10,7 @@ Make a fork of this repository on your GitHab. Read the tasks carefully and comp
 
 ⚠️ Your push operation may not work. If so you can use FORCE PUSH. How to do force push you can find in internet, or use https url.
 
-⚠️ The end of the exam is at 12:30.
+⚠️ The end of the exam is at 12:35.
 
 ❌ I will not accept links that are sent later than end of the exam
 
@@ -25,4 +25,4 @@ Task 2️⃣: Recreate the graph as in the picture. Leave a link to the reposito
 
 Task 3️⃣: Rebase branch two to branch one and merge three to one. Show the process in screenshots
 
-Task 4️⃣: Answer the question in commit question.
+Task 4️⃣: Answer the questions in commit questions.
